@@ -1,0 +1,13 @@
+Package: antonioPack
+Title: Collection of useful functions
+Version: 0.0.0.9000
+Authors@R: person('Antonio', 'Maffei', email = 'antoniomaffei88@gmail.com', role = c('aut', 'cre'))
+Description: Easy to use routines to automatize boring tasks
+Depends: R (>= 3.3.2)
+Imports: 
+     magrittr, 
+     tibble 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
