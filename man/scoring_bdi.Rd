@@ -4,8 +4,8 @@
 \alias{scoring_bdi}
 \title{Scoring the Beck Depression Inventory - II}
 \usage{
-scoring_staiT(input_staiT = x)
-scoring_staiT(input_staiT = x, indices = c(1,21))
+scoring_bdi(input_staiT = x)
+scoring_bdi(input_staiT = x, indices = c(1,21))
 }
 \arguments{
 \item{input_bdi}{Input data. It must be a rectangular matrix with column indicating items and rows
