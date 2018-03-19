@@ -8,11 +8,11 @@ scoring_staiT(input_staiT = x)
 scoring_staiT(input_staiT = x, indices = c(1,20))
 }
 \arguments{
-\item{input_staiT}{Input data. It must be a rectangular matrix with column indicating items and rows 
+\item{input_staiT}{Input data. It must be a rectangular matrix with column indicating items and rows
 indicating subjects.}
 
-\item{indices}{Two values vector indicating the first and the last item in the input data, 
-in order to extract MPQ items from a larger dataframe.}
+\item{indices}{Two values vector indicating the first and the last item in the input data,
+in order to extract STAI-Y1 items from a larger dataframe.}
 }
 \value{
 A dataframe with 1 columns representing the scores for STAI Trait version

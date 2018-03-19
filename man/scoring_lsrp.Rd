@@ -8,11 +8,11 @@ scoring_lsrp(input_lsrp = x)
 scoring_lsrp(input_lsrp = x, indices = c(1,26))
 }
 \arguments{
-\item{input_lsrp}{Input data. It must be a rectangular matrix with column indicating items and rows 
+\item{input_lsrp}{Input data. It must be a rectangular matrix with column indicating items and rows
 indicating subjects.}
 
-\item{indices}{Two values vector indicating the first and the last item in the input data, 
-in order to extract MPQ items from a larger dataframe.}
+\item{indices}{Two values vector indicating the first and the last item in the input data,
+in order to extract LRSP items from a larger dataframe.}
 }
 \value{
 A dataframe with 2 columns representing the subscales from the Levenson Self Report Psychopathy Scale
