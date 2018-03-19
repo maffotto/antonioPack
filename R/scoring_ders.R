@@ -12,7 +12,7 @@
 #' @param input_ders Input data. It must be a rectangular matrix with column indicating items and rows
 #'                  indicating subjects.
 #' @param indices Two values vector indicating the first and the last item in the input data,
-#'                in order to extract MPQ items from a larger dataframe.
+#'                in order to extract DERS items from a larger dataframe.
 #'
 #' @return A dataframe with 7 columns representing the subscales from the DERS
 #'

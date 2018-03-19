@@ -12,7 +12,7 @@ scoring_ders(input_ders = x, indices = c(1,36))
 indicating subjects.}
 
 \item{indices}{Two values vector indicating the first and the last item in the input data,
-in order to extract MPQ items from a larger dataframe.}
+in order to extract DERS items from a larger dataframe.}
 }
 \value{
 A dataframe with 7 columns representing the subscales from the DERS
