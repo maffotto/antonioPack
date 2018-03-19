@@ -15,7 +15,7 @@ indicating subjects.}
 in order to extract MPQ items from a larger dataframe.}
 }
 \value{
-A dataframe with 15 columns representing the subscales from the MPQ
+A dataframe with 7 columns representing the subscales from the DERS
 }
 \description{
 Function to automatically score the Difficulties in Emotion Regulation Scale (DERS)

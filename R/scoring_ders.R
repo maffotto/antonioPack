@@ -14,7 +14,7 @@
 #' @param indices Two values vector indicating the first and the last item in the input data,
 #'                in order to extract MPQ items from a larger dataframe.
 #'
-#' @return A dataframe with 15 columns representing the subscales from the MPQ
+#' @return A dataframe with 7 columns representing the subscales from the DERS
 #'
 #' @export
 
